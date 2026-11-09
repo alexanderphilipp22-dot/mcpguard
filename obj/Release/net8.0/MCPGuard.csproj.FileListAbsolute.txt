@@ -1,0 +1,14 @@
+C:\Users\alexa\Desktop\MCPGuard\obj\Release\net8.0\MCPGuard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\Desktop\MCPGuard\obj\Release\net8.0\MCPGuard.AssemblyInfoInputs.cache
+C:\Users\alexa\Desktop\MCPGuard\obj\Release\net8.0\MCPGuard.AssemblyInfo.cs
+C:\Users\alexa\Desktop\MCPGuard\obj\Release\net8.0\MCPGuard.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\MCPGuard\bin\Release\net8.0\mcpguard.exe
+C:\Users\alexa\Desktop\MCPGuard\bin\Release\net8.0\mcpguard.deps.json
+C:\Users\alexa\Desktop\MCPGuard\bin\Release\net8.0\mcpguard.runtimeconfig.json
+C:\Users\alexa\Desktop\MCPGuard\bin\Release\net8.0\mcpguard.dll
+C:\Users\alexa\Desktop\MCPGuard\bin\Release\net8.0\mcpguard.pdb
+C:\Users\alexa\Desktop\MCPGuard\obj\Release\net8.0\mcpguard.dll
+C:\Users\alexa\Desktop\MCPGuard\obj\Release\net8.0\refint\mcpguard.dll
+C:\Users\alexa\Desktop\MCPGuard\obj\Release\net8.0\mcpguard.pdb
+C:\Users\alexa\Desktop\MCPGuard\obj\Release\net8.0\MCPGuard.genruntimeconfig.cache
+C:\Users\alexa\Desktop\MCPGuard\obj\Release\net8.0\ref\mcpguard.dll
